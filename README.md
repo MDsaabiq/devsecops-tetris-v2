@@ -7,7 +7,7 @@ End-to-end DevSecOps pipeline implementation using Jenkins, SonarQube, Trivy, Do
 ---
 
 ## Demo Video
-[Demo Video](https://github.com/user-attachments/assets/1ae5d562-53e4-4051-946c-e1b98a370791)
+[Demo Video](https://github.com/user-attachments/assets/b80a1246-2cff-4526-a8c5-f5264b1ca65a)
 
 ## 🚀 Project Overview
 
