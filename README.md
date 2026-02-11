@@ -2,6 +2,8 @@
 
 A production-grade **DevSecOps CI/CD Pipeline** for a React-based Tetris application, featuring automated security gates, GitOps-driven deployments, and high-availability infrastructure on AWS.
 
+![Architecture Diagram](assets/architecture.png)
+
 ---
 
 ## 📽️ Demo Video
